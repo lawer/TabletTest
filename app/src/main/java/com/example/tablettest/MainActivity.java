@@ -8,6 +8,8 @@ import com.example.tablettest.ui.main.MainFragment;
 
 public class MainActivity extends AppCompatActivity {
 
+    private int i;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
